@@ -40,7 +40,7 @@ const MainPage: React.FC = () => {
                     </Avatar>
                 </Button>
                 <button className='w-[80%] h-10 bg-help_bg' onClick={() => naviate('/voice-test')}>
-                    보이스로 이동
+                    보이스
                 </button>
             </div>
         </section>
